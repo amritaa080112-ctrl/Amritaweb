@@ -5,7 +5,7 @@ const SweetQuotes: React.FC = () => {
   const [showQuote, setShowQuote] = useState(false);
 
   const quotes = [
-    "You are my sunshine on a cloudy day",
+    "Happy Birthday My Love Abhay ❤️",
     "In your eyes, I found my home",
     "Every love story is beautiful, but ours is my favorite",
     "You make my heart skip a beat",
