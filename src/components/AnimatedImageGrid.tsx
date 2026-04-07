@@ -20,7 +20,7 @@ const AnimatedImageGrid: React.FC = () => {
       delay: 0.4
     },
     {
-      src: "https://i.ibb.co/V0vkc9XZ/9a6a468c-b345-46df-ae70-6a4348761aa2.jpg",
+      src: "https://i.ibb.co/JWjfPYqg/Whats-App-Image-2026-04-08-at-02-18-28.jpg",
       caption: "",
       delay: 0.6
     },
