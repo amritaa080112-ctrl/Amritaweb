@@ -6,15 +6,15 @@ const PhotoSlider = () => {
   
   // Placeholder images - replace with your actual photos
   const photos = [
-  "https://i.ibb.co/k60k7YhN/IMG-2838.jpg, // couple holding hands
+  "https://i.ibb.co/bRWZkt3j/IMG-2839.jpg", // couple holding hands
 
-  "https://i.ibb.co/XkMDHnGR/IMG-2840.jpg", // couple in sunset
+  "https://i.ibb.co/MxckH4Tg/IMG-2840.jpg", // couple in sunset
 
-  "https://plus.unsplash.com/premium_photo-1661367626996-6e75af974221?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", // hugging moment
+  "https://i.ibb.co/35C9HzKt/IMG-2841.jpg", // hugging moment
 
-  "https://plus.unsplash.com/premium_photo-1722686421604-ddcbd5dfa50e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", // walking in nature
+  "https://i.ibb.co/cnHD49G/IMG-2838.jpg", // walking in nature
   
-  "https://plus.unsplash.com/premium_photo-1658506814710-931319e429b0?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  // cozy in the snow
+  "https://i.ibb.co/HprfnvRf/IMG-2842.jpg"  // cozy in the snow
 ];
 
 
