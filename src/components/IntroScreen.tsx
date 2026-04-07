@@ -47,7 +47,7 @@ const IntroScreen: React.FC<IntroScreenProps> = ({ onEnter }) => {
           onClick={onEnter}
           className="enter-button"
         >
-          <span className="button-text">Click to Begin</span>
+          <span className="button-text">Start Surprise 🎂</span>
           <div className="button-glow-pulse"></div>
         </button>
       </div>
