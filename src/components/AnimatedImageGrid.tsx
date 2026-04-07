@@ -5,7 +5,7 @@ const AnimatedImageGrid: React.FC = () => {
   
   const images = [
     {
-      src: "https://i.ibb.co/5WjxMbTp/IMG-2843.jpg",
+      src: "https://i.ibb.co/7db7tcGs/Whats-App-Image-2026-03-10-at-20-46-24.jpg",
       caption: "",
       delay: 0
     },
