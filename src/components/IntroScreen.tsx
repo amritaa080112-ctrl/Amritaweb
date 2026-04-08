@@ -40,7 +40,7 @@ const IntroScreen: React.FC<IntroScreenProps> = ({ onEnter }) => {
         <h1 className="intro-title">
           Happy 21st Birthday
           <br />
-          <span className="intro-subtitle">Abhayyy 🤥</span>
+          <span className="intro-subtitle">Abhayyy😚</span>
         </h1>
         
         <button 
