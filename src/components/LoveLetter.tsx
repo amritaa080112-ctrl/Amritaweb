@@ -37,10 +37,13 @@ const LoveLetter = () => {
             Next time, I came to Indore on 16th January. I didn’t even know that traveling by bus would make me feel so sick, but honestly, it was all worth it just to see you. “aapse milne ke liye itna toh kar hi sakti hu…” The last time we met was on 13th March. I don’t even know why I’m saying all this, but remembering these moments makes me feel so happy… “par saath hi aapki yaad aur zyada aane lagti hai.”   
           </p>
           <p className="letter-paragraph">
-            Happy 21st birthday, babyyy ❤️ “kaash main aapke saath hoti aapke birthday wale din…” 💫
+            Happy 21st birthday, babyyy ❤️
           </p>
+          <p className="letter-paragraph"> 
+            “kaash main aapke saath hoti aapke birthday wale din…” 💫
+          </p>  
         
-            With all my love,<br/>
+            With all my love🫶,<br/>
             Your C2💕
           </p>
         </div>
